@@ -1,2 +1,1 @@
-# react-responsive-navBar
-Created with CodeSandbox
+# React Responsive Nav - V2
